@@ -8,7 +8,7 @@ This repository contains the supplementary material and data extraction records 
 * Alfredo Goldman (IME - USP)
 
 ## Repository Contents
-* `a-systematic-approach-to-multilingual-audio-visual-speech-recognition-models.docx`: Raw data export from Parsifal, containing the search protocol, inclusion/exclusion criteria, and quality assessment of the reviewed literature.
+* `parsifal_export.md`: Raw data export from Parsifal, containing the search protocol, inclusion/exclusion criteria, and quality assessment of the reviewed literature.
 * `README.md`: This document, detailing the repository structure and providing the exact DOIs for the 9 selected studies.
 
 ## Selected Articles
