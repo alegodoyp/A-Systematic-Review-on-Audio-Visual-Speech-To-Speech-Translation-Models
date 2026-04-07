@@ -1,5 +1,7 @@
 # Supplementary Data: A Systematic Review on Audio-Visual Speech-To-Speech Translation Models
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19454607.svg)](https://doi.org/10.5281/zenodo.19454607)
+
 This repository contains the supplementary material and data extraction records for our systematic literature review exploring the transition from cascaded systems to direct end-to-end Audio-Visual Speech-to-Speech Translation (AV-S2ST) models.
 
 ## Authors
@@ -35,9 +37,6 @@ Below is the final list of the 9 articles included in the systematic review:
   * DOI: [10.48550/arXiv.1910.00254](https://doi.org/10.48550/arXiv.1910.00254) *(arXiv DOI)*
 * **Leveraging Pseudo-labeled Data to Improve Direct Speech-to-Speech Translation** (Dong et al., 2022). 
   * DOI: [10.48550/arXiv.2205.08993](https://doi.org/10.48550/arXiv.2205.08993) *(arXiv DOI)*
-
-## How to Cite
-*soon*.
 
 ## License
 This dataset and accompanying documentation are licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) License.
